@@ -30,11 +30,11 @@ const sum3 = (num1=1, num2=1)=>{
 // Empthy function
 const myName = () => console.log("Hello Hossain Ahamed Sorkar")
 
-myName()
+// myName()
 
 // No parameter Function used 
 const square = (a) => a * a ;
-console.log(square(20))
+// console.log(square(20))
 
 
 // Parameter used
@@ -42,7 +42,7 @@ console.log(square(20))
 const add2 = (num2, num3)=>{
     return num2 * num3;
 }
-console.log(add2(1,1))
+// console.log(add2(1,1))
 
 
 // Regular Function used
