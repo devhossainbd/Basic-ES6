@@ -27,11 +27,11 @@ const personn = {
 }
 
 
-console.log(personn)
+// console.log(personn)
 
 // For in loop
 for (let key in personn){
-    console.log(`key: ${key} value: ${personn[key]}`
+    // console.log(`key: ${key} value: ${personn[key]}`
 
-           )
+           
 }
