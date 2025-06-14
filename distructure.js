@@ -20,5 +20,5 @@ const friendss =['tayab', 'rafiq', 'jamal', 'kamal'];
 // const [] = ;
 
 const [ nayok, jobbar,  text] = friendss;
-console.log(nayok)
-console.log(jobbar)
+// console.log(nayok)
+// console.log(jobbar)
